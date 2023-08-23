@@ -50,7 +50,7 @@
  <!--  TOP LANGUAGES STATISTICS -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh59-coder&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)<br/> -->
 
-<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh404&show_icons=true&locale=en" alt="coderkhalide" /></p>
+<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh404&show_icons=true&locale=en" alt="priyansh404" /></p>
 
 <!--  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh59-coder&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
