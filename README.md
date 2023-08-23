@@ -45,13 +45,12 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabh59-coder&theme=gotham&hide_border=true)<br/> -->
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
-<p>&nbsp;</p>
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh404&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh404&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)<br/>
  
  <!--  TOP LANGUAGES STATISTICS -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh59-coder&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)<br/> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh404&show_icons=true&locale=en" alt="coderkhalide" /></p>
+<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh404&show_icons=true&locale=en" alt="coderkhalide" /></p>
 
 <!--  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh59-coder&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
