@@ -39,13 +39,13 @@
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=sourabh59-coder&show_icons=true&count_private=true&theme=dark" alt="SourabhChandel" /> <br/> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh404&show_icons=true&locale=en" alt="coderkhalide" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh404&show_icons=true&locale=en&layout=donut" alt="coderkhalide" /></p><br/>
 
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabh59-coder&theme=gotham&hide_border=true)<br/> -->
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh404&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)<br/>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyansh404&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dracula)](https://git.io/streak-stats)<br/>
  
  <!--  TOP LANGUAGES STATISTICS -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh59-coder&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)<br/> -->
