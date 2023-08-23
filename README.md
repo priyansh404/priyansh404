@@ -39,7 +39,7 @@
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=sourabh59-coder&show_icons=true&count_private=true&theme=dark" alt="SourabhChandel" /> <br/> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh404&show_icons=true&locale=en&layout=compact" alt="coderkhalide" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh404&show_icons=true&locale=en" alt="coderkhalide" /></p><br/>
 
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabh59-coder&theme=gotham&hide_border=true)<br/> -->
