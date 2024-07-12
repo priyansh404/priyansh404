@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width= 60% height=20%>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width= 60% height=20%></p>
 <!-- ![Coder_back](https://user-images.githubusercontent.com/77907942/212458398-ad72f2c8-9419-4fbc-b9b1-9c183c3b8c45.gif) -->
 <!-- [![MasterHead](https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png) -->
 <h1 align="center">Hi 👋, I'm Priyansh Sangwan</h1>
